@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.revature</groupId>
+  <artifactId>Grade-frontend1</artifactId>
+  <packaging>war</packaging>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Grade-frontend1 Maven Webapp</name>
+  <url>http://maven.apache.org</url>
+  <dependencies>
+    
+       <dependency>  
+    <groupId>com.revature</groupId>
+  <artifactId>Grade-core</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+    </dependency>
+   
+
+  </dependencies>
+  <build>
+    <finalName>Grade-frontend1</finalName>
+  </build>
+</project>
